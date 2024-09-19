@@ -1,6 +1,6 @@
-Hi My name is swati singh.
+Hi My name is Swati singh.
 # 💻 Tech Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Swatisingh86414&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Swatisingh86414&theme=dark&hide_border=false)<br/>
@@ -11,7 +11,7 @@ Hi My name is swati singh.
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Swatisingh86414&limit=4&theme=Dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Swatisingh86414&limit=5&theme=Dark&combine_all_yearly_contributions=true)
 
 ---
 
