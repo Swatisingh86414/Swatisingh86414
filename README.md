@@ -11,7 +11,7 @@ Hi My name is swati singh.
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Swatisingh86414&limit=4&theme=light&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Swatisingh86414&limit=4&theme=Dark&combine_all_yearly_contributions=true)
 
 ---
 
